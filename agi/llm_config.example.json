@@ -1,0 +1,7 @@
+{
+  "AGI_LLM_PROVIDER": "gemini",
+  "GEMINI_API_KEY": "AQ.Ab8RN6Lq__tNzaJDd3RG6NZuiFS_JyBTMXFK-leZ7IeZpcZ5Kg",
+  "AGI_GEMINI_MODEL": "gemini-3.5-flash",
+  "AGI_LLM_TIMEOUT_SECONDS": "8",
+  "AGI_LLM_MAX_OUTPUT_TOKENS": "10"
+}

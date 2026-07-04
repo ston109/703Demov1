@@ -1,0 +1,93 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "22bb918f-1c11-4e24-86c0-99d4725dedb7",
+    "action_type": "customer_service_contact",
+    "message": "Trigger customer service help for checkout friction.",
+    "reason": "User exited checkout before completing order.",
+    "state": "checkout_friction"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "42ffdefb-3343-44b9-bcb7-df83103ce2f0",
+    "action_type": "free_shipping_offer",
+    "message": "Offer free shipping or show a free-shipping threshold.",
+    "reason": "Shipping fee is visible during cart or checkout.",
+    "state": "shipping_fee_blocked"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "fb5c9321-ce73-4930-aa8d-1a026c057590",
+    "action_type": "discount_or_cheaper_recommendation",
+    "message": "Send a targeted discount or recommend the lower-priced similar product.",
+    "reason": "User is comparing alternatives before buying.",
+    "state": "price_sensitive"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "80f2c940-ee63-4598-a9fb-47a51ed056ef",
+    "action_type": "free_shipping_offer",
+    "message": "Offer free shipping or show a free-shipping threshold.",
+    "reason": "Shipping fee is visible during cart or checkout.; User left the cart page.",
+    "state": "cart_hesitation"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "91616bfd-2221-4edf-88b0-866c72b19b1a",
+    "action_type": "discount_or_cheaper_recommendation",
+    "message": "Send a targeted discount or recommend the lower-priced similar product.",
+    "reason": "User is comparing alternatives before buying.",
+    "state": "price_sensitive"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "86a58f8c-f2e5-4d01-a65f-83bf687755ab",
+    "action_type": "free_shipping_offer",
+    "message": "Offer free shipping or show a free-shipping threshold.",
+    "reason": "Shipping fee is visible during cart or checkout.; User left the cart page.",
+    "state": "cart_hesitation"
+  }
+]
+=================================================
+
+
+================ AGI ACTION JSON ================
+[
+  {
+    "action_id": "39d13ca9-247f-403a-afec-3ce29ce0d255",
+    "action_type": "discount_or_cheaper_recommendation",
+    "message": "Send a targeted discount or recommend the lower-priced similar product.",
+    "reason": "User is comparing alternatives before buying.",
+    "state": "price_sensitive"
+  }
+]
+=================================================
+
